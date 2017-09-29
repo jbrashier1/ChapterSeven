@@ -9,7 +9,7 @@ public class Ledger {
     private int salesMade;
     private int maxSales;
     private double[] sale;
-    private static int saleNum = 0;
+    private int saleNum = 0;
 
     /** Constructor with one attribute "max" */
     public Ledger(int max) {
